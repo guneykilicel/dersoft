@@ -22,7 +22,7 @@ const Card = () => {
         "flex-col gap-y-6": wphone
       })}>
         <div className={classNames({
-            "w-2/3 rounded-lg gradient-pink": true,
+            "rounded-lg gradient-pink": true,
             "h-56 w-full" : wphone,
             "h-96" : !wphone
         })}>
