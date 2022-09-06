@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/dersoft/static/css/main.ccf2b40f.css",
-    "main.js": "/dersoft/static/js/main.0d6c7b70.js",
+    "main.css": "/dersoft/static/css/main.621ef542.css",
+    "main.js": "/dersoft/static/js/main.232a4a3b.js",
     "index.html": "/dersoft/index.html",
-    "main.ccf2b40f.css.map": "/dersoft/static/css/main.ccf2b40f.css.map",
-    "main.0d6c7b70.js.map": "/dersoft/static/js/main.0d6c7b70.js.map"
+    "main.621ef542.css.map": "/dersoft/static/css/main.621ef542.css.map",
+    "main.232a4a3b.js.map": "/dersoft/static/js/main.232a4a3b.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccf2b40f.css",
-    "static/js/main.0d6c7b70.js"
+    "static/css/main.621ef542.css",
+    "static/js/main.232a4a3b.js"
   ]
 }
