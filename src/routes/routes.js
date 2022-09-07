@@ -6,7 +6,7 @@ import Register from "../pages/auth/register";
 
 const routes = [
   {
-    path: "/turp",
+    path: "/dersoft",
     element: <MainLayout />,
     auth: true,
     children: [
@@ -17,7 +17,7 @@ const routes = [
     ],
   },
   {
-    path: '/turp/auth',
+    path: '/dersoft/auth',
     element: <AuthLayout />,
     children: [
         {
